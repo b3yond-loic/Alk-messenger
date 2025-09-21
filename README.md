@@ -1,7 +1,7 @@
 # Alk-messenger
 this cross-plateform messaging service facilitates business transactions through its token purchase and resale system. It's perfect for freelancers looking to monetize their skills.
 
-# Alkemia Messenger
+# Alk Messenger
 
 ## 🚀 Vision du projet
 **Alkemia Messenger** est une plateforme de messagerie innovante combinant communication, commerce et échanges de services.  
@@ -45,6 +45,6 @@ Projet actuellement en développement solo. Contributions et idées sont les bie
 Contact : [cerqueira.loic88@gmail.com]
 
 ## 📌 Notes
-Alkemia Messenger fait partie de **l’univers Alkemia**, regroupant plusieurs projets innovants :  
-- Alkemia Robotic Box (appli de contrôle robotique)  
+Alk Messenger fait partie de **l’univers B3yond Alkemia**, regroupant plusieurs projets innovants :  
+- Alk Robotic Box (appli de contrôle robotique)  
 - DroneBuddy (drone assistant touristique)
